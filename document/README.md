@@ -17,8 +17,7 @@ It can be scaled using gesture recognition through the camera.
 Nodejs v18+ 
 ```shell 
 git clone https://github.com/YuechiFu/Watcher-Particles
-npm install pnpm -g 
-pnpm install 
+npm install
 ```
 
 - For Development Environment  
